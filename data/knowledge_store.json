@@ -1,0 +1,50 @@
+[
+  {
+    "knowledge_id": "risk_profile_rules",
+    "type": "rulebook",
+    "rules": [
+      "Investment horizon above 15 years increases risk capacity",
+      "Near-term goals under 5 years reduce ability to take equity risk",
+      "High loss aversion should cap aggressive portfolio recommendations",
+      "Use both emotional tolerance and financial capacity when assigning risk level"
+    ]
+  },
+  {
+    "knowledge_id": "asset_allocation_templates",
+    "type": "heuristics",
+    "profiles": {
+      "conservative": { "stocks": 35, "bonds": 50, "cash": 15 },
+      "moderate": { "stocks": 60, "bonds": 30, "cash": 10 },
+      "aggressive": { "stocks": 85, "bonds": 10, "cash": 5 }
+    }
+  },
+  {
+    "knowledge_id": "goal_bucket_rules",
+    "type": "planning_framework",
+    "rules": [
+      "Emergency fund should remain highly liquid",
+      "Home purchase funds within 5 years should be in lower-volatility assets",
+      "Long-term retirement assets can be invested for growth",
+      "Do not mix short-term and long-term goals into one undifferentiated portfolio"
+    ]
+  },
+  {
+    "knowledge_id": "diversification_rules",
+    "type": "portfolio_rules",
+    "rules": [
+      "Flag portfolios heavily concentrated in one stock or sector",
+      "Employer stock concentration should be treated as a risk factor",
+      "Diversification across asset classes and sectors reduces idiosyncratic risk"
+    ]
+  },
+  {
+    "knowledge_id": "suitability_rules",
+    "type": "compliance_policy",
+    "rules": [
+      "Recommendations must align with the stated risk profile",
+      "Recommendations must respect client constraints",
+      "Time horizon and liquidity needs must be incorporated into advice",
+      "Avoid internally inconsistent recommendations"
+    ]
+  }
+]

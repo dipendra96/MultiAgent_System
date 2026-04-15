@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Maya Chen",
+        "age": 34,
+        "occupation": "Product Manager",
+        "annual_income": 185000,
+        "liquid_assets": 140000,
+        "retirement_assets": 95000,
+        "monthly_expenses": 6200,
+        "investment_horizon_years": 20,
+        "risk_aversion": "moderate",
+        "financial_goals": [
+            "retirement growth",
+            "save for home down payment in 5 years",
+            "build emergency fund"
+        ],
+        "current_portfolio": {
+            "cash": 25000,
+            "broad_index_funds": 70000,
+            "tech_stocks": 30000,
+            "bonds": 10000
+        },
+        "constraints": [
+            "does not want leverage",
+            "prefers low-fee funds",
+            "wants some liquidity for near-term goals"
+        ]
+    },
+    {
+        "name": "Alex Rivera",
+        "age": 27,
+        "occupation": "Software Engineer",
+        "annual_income": 145000,
+        "liquid_assets": 40000,
+        "retirement_assets": 25000,
+        "monthly_expenses": 3500,
+        "investment_horizon_years": 30,
+        "risk_aversion": "low",
+        "financial_goals": [
+            "maximize long-term wealth",
+            "early financial independence",
+            "build high-growth portfolio"
+        ],
+        "current_portfolio": {
+            "cash": 10000,
+            "index_funds": 20000,
+            "crypto": 5000,
+            "individual_stocks": 30000
+        },
+        "constraints": [
+            "comfortable with volatility",
+            "interested in tech and emerging assets",
+            "no immediate liquidity needs"
+        ]
+    },
+    {
+        "name": "David Thompson",
+        "age": 58,
+        "occupation": "Senior Manager",
+        "annual_income": 210000,
+        "liquid_assets": 180000,
+        "retirement_assets": 850000,
+        "monthly_expenses": 8000,
+        "investment_horizon_years": 8,
+        "risk_aversion": "high",
+        "financial_goals": [
+            "preserve capital",
+            "ensure stable retirement income",
+            "reduce portfolio volatility"
+        ],
+        "current_portfolio": {
+            "cash": 80000,
+            "stocks": 500000,
+            "bonds": 250000,
+            "real_estate_fund": 200000
+        },
+        "constraints": [
+            "very sensitive to market downturns",
+            "wants predictable income",
+            "no speculative investments"
+        ]
+    },
+    {
+        "name": "Sanjay Patel",
+        "age": 42,
+        "occupation": "Startup Founder",
+        "annual_income": 350000,
+        "liquid_assets": 500000,
+        "retirement_assets": 300000,
+        "monthly_expenses": 15000,
+        "investment_horizon_years": 15,
+        "risk_aversion": "moderate",
+        "financial_goals": [
+            "diversify wealth outside business",
+            "tax-efficient investing",
+            "long-term capital growth"
+        ],
+        "current_portfolio": {
+            "cash": 150000,
+            "startup_equity": 2000000,
+            "index_funds": 200000,
+            "real_estate": 300000,
+            "private_investments": 150000
+        },
+        "constraints": [
+            "high concentration in own business",
+            "interested in tax optimization",
+            "open to alternatives but wants structure"
+        ]
+    },
+    {
+        "name": "Jessica Morales",
+        "age": 39,
+        "occupation": "Administrative Assistant",
+        "annual_income": 52000,
+        "liquid_assets": 6000,
+        "retirement_assets": 8000,
+        "monthly_expenses": 3100,
+        "investment_horizon_years": 25,
+        "risk_aversion": "moderate",
+        "financial_goals": [
+            "build emergency savings",
+            "pay down debt",
+            "start investing consistently"
+        ],
+        "current_portfolio": {
+            "cash": 2000,
+            "401k": 8000,
+            "debt": 12000
+        },
+        "constraints": [
+            "limited disposable income",
+            "high sensitivity to losses",
+            "needs simple, low-maintenance strategy"
+        ]
+        }
+    ]
