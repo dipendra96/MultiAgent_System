@@ -61,7 +61,7 @@ Ensure the following files exist in the `data/` directory:
 - `client_profile.json`: Contains client profiles (simulated client persona).
 - `knowledge_store.json`: Internal knowledge base with financial planning rules.
 
-### 5. Run the System
+### 4. Run the System
 Execute the main script:
 
 ```bash
